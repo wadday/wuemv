@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{a as r,b as s,o as c}from"./app-CQ6d7mVl.js";const n={},o={class:"bg-white flex h-screen w-screen items-center justify-center"};function a(i,e){return c(),r("div",o,[...e[0]||(e[0]=[s("div",null,[s("img",{src:"/images/wuemv.png",alt:"Wue.mv",class:"w-64"})],-1)])])}const f=t(n,[["render",a]]);export{f as default};
